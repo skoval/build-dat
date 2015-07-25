@@ -1,7 +1,7 @@
-Build-dat Demos
+Build-dat
 ======
 
-The goal of **Build-dat Demos** is to be an incubator for the latest tools for data products, data visualizations, and web applications that have the potential to advance research at RAND. **Build-dat** is about learning through doing. Each **Build-dat** event will focus on one particular tool and attendees will get a hands-on introduction to its use through short demos of real-world applications presented by colleagues at RAND. 
+The goal of **Build-dat** is to bring the latest data product, data visualization, and web application tools to researchers at the RAND Corporation. **Build-dat** is about learning through doing. Each **Build-dat** event will focus on one particular tool and attendees will get a hands-on introduction to its use through short demos of real-world applications presented by colleagues at RAND. 
 
 ## Demo Schedule
 
